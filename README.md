@@ -28,10 +28,10 @@ Below are some screenshots of the form validation in action:
 ### 🖥️ Screen 1 - Initial Form View
 ![Screen 1](./Assets/screen1.png)
 
-### ✅ Screen 2 - Successful Validation
+### ✅ Screen 2 -  Validation Errors
 ![Screen 2](./Assets/screen2.png)
 
-### ❌ Screen 3 - Validation Errors
+### ❌ Screen 3 - Successful Validation 
 ![Screen 3](./Assets/screen3.png)
 
 ## 🚀 Getting Started
